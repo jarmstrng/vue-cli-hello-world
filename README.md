@@ -1,5 +1,7 @@
 # hello-world
 
+Defaults for [Vue CLI 3 introduction](https://cli.vuejs.org/guide/creating-a-project.html#vue-create)
+
 ## Project setup
 ```
 npm install
